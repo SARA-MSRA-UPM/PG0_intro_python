@@ -18,7 +18,7 @@ recomienda descargar e instalar la última revisión de la versión 3.12.
 ## Instalación PycharmCE
 1. El primer paso será acceder a la página web de descarga de [Pycharm](
 https://www.jetbrains.com/pycharm/download/) y descargar el instalador. Es 
-importante que descargue la versión de la **COMUNIDAD** y no la versión 
+importante que descargue la versión de la **COMUNIDAD** y no la versión
 profesional. ![plot](./statics/pycharmCE_install_init.png)
 
 2. Tras ejecutar el instalador, sigas sus instrucciones, las opciones por 
