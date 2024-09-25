@@ -12,28 +12,33 @@ oficiales.
 ## Instalación Python
 1. Es primer paso es descargar [Python](
 https://www.python.org/downloads/) y ejecutar el archivo descargado. 
-REcuerde que la versión necesaria tiene que ser superior a la 3.8. Se 
+Recuerde que la versión necesaria tiene que ser superior a la 3.8. Se 
 recomienda descargar e instalar la última revisión de la versión 3.12. 
 Recuerde marcar las mismas opciones que las de de la imagen.
+
 ![plot](./statics/pycharmCE_install/python_install_init.png)
 
 2. Tras terminar la instalación, se le ofrece la opción de eliminar el tamaño 
 máximo de nombre de los archivos, no es necesario.
-   ![plot](./statics/pycharmCE_install/python_install_finish.png)
+
+![plot](./statics/pycharmCE_install/python_install_finish.png)
 
 ## Instalación PycharmCE
 1. El primer paso será acceder a la página web de descarga de [Pycharm](
 https://www.jetbrains.com/pycharm/download/) y descargar el instalador. Es 
 importante que descargue la versión de la **COMUNIDAD** y no la versión
 profesional. 
+
 ![plot](./statics/pycharmCE_install/pycharmCE_install_init.png)
 
 2. Tras ejecutar el instalador, sigas sus instrucciones, las opciones por 
 defecto son adecuadas. Al llegar a la fase de instalación de la imagen 
 asegurese de seleccionar las opciones marcadas en la imagen.
+
 ![plot](./statics/pycharmCE_install/pycharmCE_install_options.png)
 
 3. Durante las siguientes fases de la instalación puede continuar con las 
 opciones por defecto hasta llegar a la última fase. Debido a los cambios que 
 tiene que realizar el IDE instalado es necesario reiniciar el ordenador.
+
 ![plot](./statics/pycharmCE_install/pycharmCE_install_reboot.png)
