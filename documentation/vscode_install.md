@@ -20,9 +20,9 @@ Es importante que descargue la versión adecuada para su sistema operativo.
 Ejecute el archivo descargado y siga las instrucciones del instalador. Es
 recomendable marcar las siguientes opciones:
 
-![plot](./statics/vscode_install/vscode_install_windows_options.png)
+<img src="./statics/vscode_install/vscode_install_windows_options.png" width="600"/>
 
 Una vez instalado, abra Visual Studio Code y acceda a la sección de extensiones.
 Busque e instale la extensión `Python`.
 
-![plot](./statics/vscode_install/vscode_install_extensions.png)
+<img src="./statics/vscode_install/vscode_install_extensions.png" width="600"/>
