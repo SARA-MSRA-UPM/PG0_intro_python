@@ -56,7 +56,7 @@ opciones:
 A continuación seleccione `Customize installation` y seleccione las opciones que
 se muestran en la imagen.
 
-<img src="./statics/python_free_threading_install/python_installer_optional_features.png" width="600"/>
+<img src="./statics/python_install/python_install_direct__optional_features.png" width="600"/>
 
 En la siguiente pantalla es muy importante marcar la opción
 `Download free-threaded binaries`. Tras esto la instalación finalizará.
